@@ -1,0 +1,32 @@
+html{
+    background:url(https://egestorab.saude.gov.br/resource/img/fundo_login.png);
+}
+main{
+    text-align: center;
+    font-size: 30px;
+    
+}
+.user{
+        background: gray;
+        position:absolute;
+        left: 664.5px;
+        margin: 0 auto;
+        bottom: 575px;
+        border: 2px solid #000000;
+
+}
+.senha{
+        background: gray;
+        position:absolute;
+        left: 664.5px;
+        margin: 0 auto;
+        bottom: 500px;
+        border: 2px solid #000000;
+}
+
+.box{
+    position:absolute;
+    bottom: 500px;
+    left: 664.5px;
+    border: 2px solid #000000;
+}   
